@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3bd7dcf2.css",
+    "main.js": "/static/js/main.609597c5.js",
+    "static/js/787.f40a2750.chunk.js": "/static/js/787.f40a2750.chunk.js",
+    "static/media/GL-electronics-png.png": "/static/media/GL-electronics-png.e700c6045c8daa4098c3.png",
+    "index.html": "/index.html",
+    "main.3bd7dcf2.css.map": "/static/css/main.3bd7dcf2.css.map",
+    "main.609597c5.js.map": "/static/js/main.609597c5.js.map",
+    "787.f40a2750.chunk.js.map": "/static/js/787.f40a2750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd7dcf2.css",
+    "static/js/main.609597c5.js"
+  ]
+}
