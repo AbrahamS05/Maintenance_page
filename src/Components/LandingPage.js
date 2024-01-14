@@ -20,11 +20,6 @@ function LandingPage(){
         alignItems: 'center',
       };
 
-      const homeStyle = {
-        fontWeight: 'bold',
-        color: "rgb(150,0,0)",
-      };
-
       const logoStyle = {
         width: '150px', // Adjust the width as needed
         height: '100px', // Maintain aspect ratio

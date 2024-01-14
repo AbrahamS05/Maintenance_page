@@ -9,6 +9,7 @@ function AboutUs(){
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'center',
+        
         //backgroundColor: 'black',
 
     }
